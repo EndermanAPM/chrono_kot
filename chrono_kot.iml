@@ -11,6 +11,15 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://F:/Descargas/selenium-java-3.3.1/selenium-server-standalone-3.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://F:/Descargas/selenium-java-3.3.1/client-combined-3.3.1-nodeps.jar!/" />
         </CLASSES>
         <JAVADOC />

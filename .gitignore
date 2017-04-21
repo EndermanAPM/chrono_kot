@@ -1,2 +1,9 @@
 .idea
-/lib
+lib/
+out/
+
+password.txt
+
+
+src/java_test.java
+src/kotlin_test.kt
